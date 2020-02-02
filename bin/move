@@ -2,6 +2,6 @@
 
 require_relative '../lib/move.rb'
 board = [" "," "," "," "," "," "," "," "," "]
-move(board[4], X)
+move(board[2], X)
 
 # Code your CLI Here
